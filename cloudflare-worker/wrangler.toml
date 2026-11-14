@@ -1,4 +1,4 @@
-name = "anand-studio-api"
+name = "anand-studio-cloudflare"
 main = "src/index.js"
 compatibility_date = "2026-11-14"
 
@@ -8,4 +8,4 @@ database_name = "anand-studio-db"
 database_id = "REPLACE_WITH_D1_DATABASE_ID"
 
 [vars]
-ALLOWED_ORIGIN = "https://anand-studio-order-manager.pages.dev"
+ALLOWED_ORIGIN = "0f15069e-1f3b-43c9-b187-704d5c81e063"
